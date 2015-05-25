@@ -69,7 +69,7 @@ abstract class AbstractWidgetFactory
      *
      * @var bool
      */
-    public static $skipWidgetContainer = false;
+    public static $skipWidgetContainer = true;
 
     /**
      * @param $config
