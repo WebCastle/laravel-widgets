@@ -1,5 +1,5 @@
 {
-    "name": "arrilot/laravel-widgets",
+    "name": "webcastle/laravel-widgets",
     "description": "This package provides widget functionality to boost your Laravel views. It also includes asynchronous widgets, reloadable widgets, generator and etc.",
     "license": "MIT",
     "keywords": ["laravel", "widgets", "ajax"],
