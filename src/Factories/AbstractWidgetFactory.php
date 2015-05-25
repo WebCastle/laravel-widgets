@@ -69,6 +69,7 @@ abstract class AbstractWidgetFactory
      *
      * @var bool
      */
+     /// TRY 
     public static $skipWidgetContainer = true;
 
     /**
